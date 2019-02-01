@@ -30,7 +30,7 @@ public class CodeWordChecker implements StringChecker{
 		notAllowed = symbol;
 	}
 	/**
-	 * +1 uses uarameter and default values to initialize variables in 1 parameter constructor
+	 * +1 uses parameter and default values to initialize variables in 1 parameter constructor
 	 *
 	 */
 	public CodeWordChecker(String str) {
